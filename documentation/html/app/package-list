@@ -1,0 +1,22 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.fcmb.dokkatestapp////PointingToDeclaration/app/com.fcmb.dokkatestapp/index.html
+$dokka.location:com.fcmb.dokkatestapp//createExceptionHandler/kotlinx.coroutines.CoroutineScope#kotlin.String#kotlin.Function1[kotlin.Throwable,kotlin.Unit]/PointingToDeclaration/app/com.fcmb.dokkatestapp/create-exception-handler.html
+$dokka.location:com.fcmb.dokkatestapp/DateTimeUtils///PointingToDeclaration/app/com.fcmb.dokkatestapp/-date-time-utils/index.html
+$dokka.location:com.fcmb.dokkatestapp/DateTimeUtils/parse/#kotlin.String/PointingToDeclaration/app/com.fcmb.dokkatestapp/-date-time-utils/parse.html
+$dokka.location:com.fcmb.dokkatestapp/Event///PointingToDeclaration/app/com.fcmb.dokkatestapp/-event/index.html
+$dokka.location:com.fcmb.dokkatestapp/Event/Event/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/app/com.fcmb.dokkatestapp/-event/-event.html
+$dokka.location:com.fcmb.dokkatestapp/Event/getContentIfNotHandled/#/PointingToDeclaration/app/com.fcmb.dokkatestapp/-event/get-content-if-not-handled.html
+$dokka.location:com.fcmb.dokkatestapp/MainActivity///PointingToDeclaration/app/com.fcmb.dokkatestapp/-main-activity/index.html
+$dokka.location:com.fcmb.dokkatestapp/MainActivity/MainActivity/#/PointingToDeclaration/app/com.fcmb.dokkatestapp/-main-activity/-main-activity.html
+$dokka.location:com.fcmb.dokkatestapp/NoMoreAnimalsException///PointingToDeclaration/app/com.fcmb.dokkatestapp/-no-more-animals-exception/index.html
+$dokka.location:com.fcmb.dokkatestapp/NoMoreAnimalsException/NoMoreAnimalsException/#kotlin.String/PointingToDeclaration/app/com.fcmb.dokkatestapp/-no-more-animals-exception/-no-more-animals-exception.html
+$dokka.location:com.fcmb.dokkatestapp/UIAnimal///PointingToDeclaration/app/com.fcmb.dokkatestapp/-u-i-animal/index.html
+$dokka.location:com.fcmb.dokkatestapp/UIAnimal/UIAnimal/#kotlin.Long#kotlin.String#kotlin.String/PointingToDeclaration/app/com.fcmb.dokkatestapp/-u-i-animal/-u-i-animal.html
+$dokka.location:com.fcmb.dokkatestapp/UIAnimal/id/#/PointingToDeclaration/app/com.fcmb.dokkatestapp/-u-i-animal/id.html
+$dokka.location:com.fcmb.dokkatestapp/UIAnimal/name/#/PointingToDeclaration/app/com.fcmb.dokkatestapp/-u-i-animal/name.html
+$dokka.location:com.fcmb.dokkatestapp/UIAnimal/photo/#/PointingToDeclaration/app/com.fcmb.dokkatestapp/-u-i-animal/photo.html
+$dokka.location:com.fcmb.dokkatestapp/UiMapper///PointingToDeclaration/app/com.fcmb.dokkatestapp/-ui-mapper/index.html
+$dokka.location:com.fcmb.dokkatestapp/UiMapper/mapToView/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/app/com.fcmb.dokkatestapp/-ui-mapper/map-to-view.html
+com.fcmb.dokkatestapp
+
